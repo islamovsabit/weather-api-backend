@@ -1,4 +1,3 @@
-install
 ```bash
-  pip install 
+  pip install requests
 ```
